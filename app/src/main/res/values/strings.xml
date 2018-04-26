@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChallengeApp</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+
+    <string name="new_username">Username</string>
+    <string name="init_password">Password</string>
+    <string name="confrim_password">Password</string>
+    <string name="success_username">tempUser</string>
+    <string name="success_password">tempPass</string>
+
+    <string name="user_key">key</string>
+    <string name="pass_key">key2</string>
+
+    <string name="ep_base_url">tcss450.herokuapp.com</string>
+    <string name="ep_login">login</string>
+    <string name="ep_register">register</string>
+
+    <string name="keys_shared_prefs">edu.uw.tcss450.challengeapp.PREFS</string>
+    <string name="keys_prefs_username">username</string>
+    <string name="keys_prefs_stay_logged_in">loggedIn</string>
+    <string name="keys_fragment_login">loginFragmentTag</string>
+    <string name="keys_fragment_register">registerFragmentTag</string>
+
+</resources>
